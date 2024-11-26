@@ -1,4 +1,4 @@
-#Created in VS code, with venv, PyTorch, pandas, Matplotlib
+#Created in VS code, with python3 (ver. 3.10), venv, PyTorch, pandas, Matplotlib
 
 import torch
 import torch.nn as nn
