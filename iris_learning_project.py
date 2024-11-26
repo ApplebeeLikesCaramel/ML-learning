@@ -1,3 +1,5 @@
+#Created in VS code, with venv, PyTorch, pandas, Matplotlib
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as func
